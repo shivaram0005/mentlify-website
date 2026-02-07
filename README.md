@@ -17,7 +17,7 @@
   #08090B
 
 ### Live Url
-[live url](mentlify.netlify.app)
+[live url](https://mentlify.netlify.app/)
 
 
 
